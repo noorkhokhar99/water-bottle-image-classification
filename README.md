@@ -25,6 +25,8 @@ jupyter notebook
 ```
 
 
+Donwload data : https://drive.google.com/file/d/14bkuUi4rznHOHjF0XmFJF52wHr2shfeP/view?usp=sharing
+
 ### RESULTS
 
 #### water-bottle-image-classification
